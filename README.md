@@ -136,8 +136,6 @@ Paper/live trading front office applying the same EDA stack as production work.
 ---
 
 <p align="center">
-  <i>Open to full-time opportunities in full-stack and AI engineering.</i>
-  <br/>
   <a href="mailto:jingwang.official@gmail.com">jingwang.official@gmail.com</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/meredith-wang-2a0b5217b/">LinkedIn</a>
