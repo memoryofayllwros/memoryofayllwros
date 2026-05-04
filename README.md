@@ -131,7 +131,8 @@ Paper/live trading front office applying the same EDA stack as production work.
 | Period | Degree | Institution |
 |--------|--------|-------------|
 | 2019 – 2021 | BCom — Business Information Systems | University of Queensland, Australia |
-| May – Jul 2020 | Exchange — ML: Practical Applications (GPA 93%) | London School of Economics, UK |
+| May – Jul 2020 | Exchange — ML: Practical Applications | London School of Economics, UK |
+| Jan – Mar 2021 | Winter School — European Studies | Ludwig Maximilian University of Munich, Germany |
 
 ---
 
