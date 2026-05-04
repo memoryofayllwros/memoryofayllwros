@@ -11,7 +11,7 @@
 
 ---
 
-Software engineer and AI specialist with **2+ years** building production-grade systems at the intersection of agentic AI, event-driven architecture, and blockchain. I design systems where correctness matters — immutable event logs, at-least-once delivery guarantees, and LLM pipelines that don't hallucinate. Based in Hong Kong, open to new opportunities.
+Software engineer and AI specialist with **2+ years** building production-grade systems at the intersection of agentic AI, event-driven architecture, and blockchain. I design systems where correctness matters — immutable event logs, at-least-once delivery guarantees, and LLM pipelines that don't hallucinate.
 
 ---
 
