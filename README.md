@@ -125,6 +125,8 @@ Paper/live trading front office applying the same EDA stack as production work.
 | May 2024 – Mar 2026 | Software Engineer | Virpluz Limited, Hong Kong |
 | Sep 2021 – Jan 2022 | Data Analyst Intern | Beijing Xiaomi Mobile Software, Beijing |
 | Jan 2021 – Apr 2021 | Industry Analyst Intern | Synced Technology Inc., Beijing |
+| Aug – Dec 2022 | Project Partner — Disability Inclusiveness Initiative | University of Queensland, Australia |
+| Aug – Dec 2020 | Writing Mentor | University of Queensland, Australia |
 
 ## Education
 
