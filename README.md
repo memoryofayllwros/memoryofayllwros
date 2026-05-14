@@ -54,7 +54,7 @@ Software engineer and AI specialist with **2+ years** building production-grade 
 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github-Actions-D24939?logo=githubactions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 
